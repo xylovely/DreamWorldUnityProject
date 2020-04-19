@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be397215aae4c85438874e4a509ad33a
+timeCreated: 1585392167
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZHanZhenGuangBiaoS-GB
+  fontNames:
+  - FZHanZhenGuangBiaoS-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
