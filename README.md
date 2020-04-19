@@ -3,4 +3,4 @@
 
 预览：
 
-![image](图片路径)
+![image](https://github.com/xianyinlove/DreamWorldUnityProject/blob/master/DreamWorldProject/build/view.png)
